@@ -56,5 +56,3 @@ create table personal(
     primary key (dni),
     foreign key (id_espacio) references espacios(id_espacio)
 );
-
-insert into sanitarios values();

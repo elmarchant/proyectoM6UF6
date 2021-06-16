@@ -13,7 +13,7 @@ public class Espacio {
 	private String password = "root";
 	private String db = "DBEspacio";
 	private String table = "espacios";
-	private int port = 3308;
+	private int port = 3306;
 	
 	public Espacio() {}
 	

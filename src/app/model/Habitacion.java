@@ -12,7 +12,7 @@ public class Habitacion {
 	private String password = "root";
 	private String db = "DBEspacio";
 	private String table = "habitaciones";
-	private int port = 3308;
+	private int port = 3306;
 	
 	public Habitacion(){}
 	

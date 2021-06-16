@@ -14,7 +14,7 @@ public class Sanitario {
 	private String password = "root";
 	private String db = "DBEspacio";
 	private String table = "sanitarios";
-	private int port = 3308;
+	private int port = 3306;
 	
 	
 	
